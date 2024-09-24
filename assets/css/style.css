@@ -9,7 +9,16 @@ body{
     } 
 }
 
+tbody{
+    font-size: .85rem !important;
+    vertical-align: middle !important;
+}
+
 .accordion{
     --bs-accordion-active-bg: #ffffff;
+}
+
+.list-group, .accordion-item, .accordion-button{
+    font-size: .85rem !important;
 }
 
