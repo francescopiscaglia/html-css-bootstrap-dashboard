@@ -1,18 +1,15 @@
-/* #region common */
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img{
-    max-width: 100%;
-}
-/* #endregion common */
-
-/* #region header */
 #app-header{
 
     img{
         height: 3.5rem;
-    }
+    } 
 }
-/* #endregion header */
+
+.accordion{
+    --bs-accordion-active-bg: #ffffff;
+}
+
