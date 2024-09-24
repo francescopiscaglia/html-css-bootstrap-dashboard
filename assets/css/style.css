@@ -1,0 +1,14 @@
+/* #region common */
+img{
+    max-width: 100%;
+}
+/* #endregion common */
+
+/* #region header */
+#app-header{
+
+    img{
+        height: 3.5rem;
+    }
+}
+/* #endregion header */
